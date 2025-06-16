@@ -21,4 +21,32 @@
   ],
   "Australian": [
     { "name": "Zinc 96", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_ZINC96AAC.aac" },
-    { "name": "80s Event", "url": "https
+    { "name": "80s Event", "url": "https://regiocast.streamabc.net/regc-80s80sevent026349418-aacplus-64-8352055?sABC=6622n2oq%230%23s42395o1poo131s5p0n8s3sp9o40729r%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1713545917" },
+    { "name": "94.1 FM", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/941FM.mp3" },
+    { "name": "Triple R", "url": "https://live-radio01.mediahubaustralia.com/CTRW/aac" },
+    { "name": "Truck Radio", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC082.aac" },
+    { "name": "ABC Radio", "url": "https://live-radio02.mediahubaustralia.com/2RNW/mp3" },
+    { "name": "ABC Sport", "url": "https://live-radio01.mediahubaustralia.com/GSDW/aac" },
+    { "name": "ABC Far North", "url": "https://live-radio01.mediahubaustralia.com/4CRNW/mp3" },
+    { "name": "Smooth FM", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915.mp3" },
+    { "name": "Star Townsville", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.aac" },
+    { "name": "Nova", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937.mp3" },
+    { "name": "iHeart Australia", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT3AAC.aac" }
+  ],
+  "Bands": [
+    { "name": "Rolling Stones Radio", "url": "https://audiotainment-sw.streamabc.net/atsw-rollingstones-aacplus-64-4712845?sABC=6622n4rs%230%23s42395o1poo131s5p0n8s3sp9o40729r%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1713546479" },
+    { "name": "Depeche Mode", "url": "https://streams.80s80s.de/dm/aac-64" }
+  ],
+  "Others": [
+    { "name": "AFN Tokyo", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3" },
+    { "name": "181FM Eagle", "url": "http://listen.181fm.com/181-eagle_64k.aac" },
+    { "name": "RSA 70s", "url": "https://streams.rsa-sachsen.de/70er/aac-64" }
+  ],
+  "New": [
+    { "name": "Manx Radio", "url": "https://listen-manxradio.sharp-stream.com/manxradiofm.aac" },
+    { "name": "Yorkshire Radio", "url": "https://edge-bauerall-01-gos2.sharp-stream.com/net1northyorkshire.aac" },
+    { "name": "Smooth Radio", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC.aac" },
+    { "name": "Nostalgia Radio", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80AAC.aac" },
+    { "name": "Gold FM Radio", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043AAC.aac" }
+  ]
+}
