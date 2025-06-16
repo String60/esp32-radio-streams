@@ -1,0 +1,22 @@
+{
+  "Favourite": [
+    {
+      "name": "Ref 64k",
+      "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/ref-64k-heaacv1-stereo"
+    },
+    {
+      "name": "Nation Radio 70s",
+      "url": "https://listen-nation.sharp-stream.com/nationradio70s.aac"
+    }
+  ],
+  "British": [
+    {
+      "name": "BBC Radio Two",
+      "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8"
+    }
+  ],
+  "Australian": [],
+  "Bands": [],
+  "Others": [],
+  "New": []
+}
