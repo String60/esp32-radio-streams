@@ -1,4 +1,5 @@
 {
   "jumpAmount": 5,
-  "volume": 21
+  "volume": 18,
+  "startupChannel": 2
 }
