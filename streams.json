@@ -12,12 +12,12 @@
   {
     "name": "Nation Radio 70s",
     "url": "https://listen-nation.sharp-stream.com/nationradio70s.aac",
-    "_comment": "placeholder"
+    "_comment": "Music from the 70s"
   },
   {
     "name": "Non-Stop 80s",
     "url": "https://listen.nonstopstreaming.net/ns80s",
-    "_comment": "placeholder"
+    "_comment": "Music from the 80s"
   },
   {
     "name": "Ref 64k",
@@ -27,17 +27,17 @@
   {
     "name": "BBC Radio One",
     "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8",
-    "_comment": "placeholder"
+    "_comment": "BBC Radio One"
   },
   {
     "name": "181FM Comedy",
     "url": "https://listen.181fm.com/181-comedy_64k.aac",
-    "_comment": "placeholder"
+    "_comment": "Comedy Radio"
   },
   {
     "name": "BBC Radio 4",
     "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8",
-    "_comment": "placeholder"
+    "_comment": "BBC Radio 4"
   },
   {
     "name": "80s Event",
@@ -62,7 +62,7 @@
   {
     "name": "Zinc 96",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_ZINC96AAC.aac",
-    "_comment": "placeholder"
+    "_comment": "zinc 96 from Australia"
   },
   {
     "name": "94.1 FM",
@@ -77,57 +77,57 @@
   {
     "name": "Truck Radio",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC082.aac",
-    "_comment": "placeholder"
+    "_comment": "Truck Radio from Australia"
   },
   {
     "name": "ABC Radio",
     "url": "https://live-radio02.mediahubaustralia.com/2RNW/mp3",
-    "_comment": "placeholder"
+    "_comment": "ABC Radio Australia"
   },
   {
     "name": "ABC Sport",
     "url": "https://live-radio01.mediahubaustralia.com/GSDW/aac",
-    "_comment": "placeholder"
+    "_comment": "ABC SPORT Australia"
   },
   {
     "name": "ABC Far North",
     "url": "https://live-radio01.mediahubaustralia.com/4CRNW/mp3",
-    "_comment": "placeholder"
+    "_comment": "ABC Radio Far North"
   },
   {
     "name": "Smooth FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915.mp3",
-    "_comment": "placeholder"
+    "_comment": "Smooth FM"
   },
   {
     "name": "Star Townsville",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.aac",
-    "_comment": "placeholder"
+    "_comment": "Star Radio Townsville"
   },
   {
     "name": "Nova",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937.mp3",
-    "_comment": "placeholder"
+    "_comment": "Nova Radio"
   },
   {
     "name": "iHeart Australia",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT3AAC.aac",
-    "_comment": "placeholder"
+    "_comment": "iHeart Australia"
   },
   {
     "name": "Rolling Stones Radio",
     "url": "https://audiotainment-sw.streamabc.net/atsw-rollingstones-aacplus-64-4712845?sABC=6622n4rs%230%23s42395o1poo131s5p0n8s3sp9o40729r%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1713546479",
-    "_comment": "placeholder"
+    "_comment": "Rolling Stones"
   },
   {
     "name": "Depeche Mode",
     "url": "https://streams.80s80s.de/dm/aac-64",
-    "_comment": "placeholder"
+    "_comment": "Depeche Mode"
   },
   {
     "name": "AFN Tokyo",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3",
-    "_comment": "placeholder"
+    "_comment": "Armed Forces Radio Tokyo"
   },
   {
     "name": "181FM Eagle",
@@ -142,12 +142,12 @@
   {
     "name": "Manx Radio",
     "url": "https://listen-manxradio.sharp-stream.com/manxradiofm.aac",
-    "_comment": "placeholder"
+    "_comment": "Manx Radio"
   },
   {
     "name": "Yorkshire Radio",
     "url": "https://edge-bauerall-01-gos2.sharp-stream.com/net1northyorkshire.aac",
-    "_comment": "placeholder"
+    "_comment": "Yorkshire Radio"
   },
   {
     "name": "Smooth Radio",
