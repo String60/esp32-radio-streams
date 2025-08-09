@@ -1,0 +1,38 @@
+[
+  {
+    "name": "BBC Radio Two",
+    "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8"
+  },
+  {
+    "name": "BFBS",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac"
+  },
+  {
+    "name": "BBC Radio One",
+    "url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8"
+  },
+  {
+    "name": "BBC Radio 4",
+    "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8"
+  },
+  {
+    "name": "Manx Radio",
+    "url": "https://listen-manxradio.sharp-stream.com/manxradiofm.aac"
+  },
+  {
+    "name": "Yorkshire Radio",
+    "url": "https://edge-bauerall-01-gos2.sharp-stream.com/net1northyorkshire.aac"
+  },
+  {
+    "name": "Smooth Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC.aac"
+  },
+  {
+    "name": "Nostalgia Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80AAC.aac"
+  },
+  {
+    "name": "Gold FM Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043AAC.aac"
+  }
+]
