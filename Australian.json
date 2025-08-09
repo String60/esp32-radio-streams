@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Zinc 96",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_ZINC96AAC.aac"
+  },
+  {
+    "name": "94.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/941FM.mp3"
+  },
+  {
+    "name": "Triple R",
+    "url": "https://live-radio01.mediahubaustralia.com/CTRW/aac"
+  },
+  {
+    "name": "Truck Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC082.aac"
+  },
+  {
+    "name": "ABC Radio",
+    "url": "https://live-radio02.mediahubaustralia.com/2RNW/mp3"
+  },
+  {
+    "name": "ABC Sport",
+    "url": "https://live-radio01.mediahubaustralia.com/GSDW/aac"
+  },
+  {
+    "name": "ABC Far North",
+    "url": "https://live-radio01.mediahubaustralia.com/4CRNW/mp3"
+  },
+  {
+    "name": "Star Townsville",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.aac"
+  },
+  {
+    "name": "Nova",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937.mp3"
+  },
+  {
+    "name": "iHeart Australia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT3AAC.aac"
+  }
+]
