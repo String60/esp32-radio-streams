@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ref 64k",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/ref-64k-heaacv1-stereo"
+  },
+  {
+    "name": "iHeart Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT10AAC.aac"
+  },
+  {
+    "name": "Chill",
+    "url": "https://ice-sov.musicradio.com/Chill"
+  },
+  {
+    "name": "Hits Radio",
+    "url": "https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac"
+  },
+  {
+    "name": "181FM Eagle",
+    "url": "http://listen.181fm.com/181-eagle_64k.aac"
+  },
+  {
+    "name": "AFN Tokyo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3"
+  }
+]
