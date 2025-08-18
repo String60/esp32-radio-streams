@@ -17,7 +17,7 @@
   },
   {
     "name": "Manx Radio",
-    "url": "https://listen-manxradio.sharp-stream.com/manxradiofm.aac"
+    "url": "https://listen-manxradio.sharp-stream.com/manxradiofm.https://liveradio.swr.de/sw282p3/swr4tu/play.mp3aac"
   },
   {
     "name": "Yorkshire Radio",
@@ -36,7 +36,7 @@
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043AAC.aac"
   },
     {
-    "name": "80s Rythem",
-    "url": "http://stream.mybroadbandradio.com/80srhythmhq"
+    "name": "German",
+    "url": "https://liveradio.swr.de/sw282p3/swr4tu/play.mp3ythmhq"
   }
 ]
