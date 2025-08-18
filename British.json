@@ -34,5 +34,9 @@
   {
     "name": "Gold FM Radio",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043AAC.aac"
+  },
+    {
+    "name": "80s Rythem",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043AAC.aac"
   }
 ]
