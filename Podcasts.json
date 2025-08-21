@@ -1,0 +1,76 @@
+{
+  "podcasts": [
+    {
+      "name": "No Such Thing As A Fish",
+      "url": "https://feeds.nosuchthingasafish.com/rss",
+      "genre": "Comedy",
+      "description": "A weekly podcast from the QI elves, full of bizarre facts."
+    },
+    {
+      "name": "The Daily",
+      "url": "https://feeds.simplecast.com/54nAGcIl",
+      "genre": "News",
+      "description": "Twenty-minute daily news podcast by The New York Times."
+    },
+    {
+      "name": "Stuff You Should Know",
+      "url": "https://feeds.megaphone.fm/stuffyoushouldknow",
+      "genre": "Education",
+      "description": "Explains how things work and explores fascinating topics."
+    },
+    {
+      "name": "Planet Money",
+      "url": "https://www.npr.org/rss/podcast.php?id=510289",
+      "genre": "Economics",
+      "description": "Insights into the economy, explained in a fun and simple way."
+    },
+    {
+      "name": "Science Vs",
+      "url": "https://feeds.megaphone.fm/sciencevs",
+      "genre": "Science",
+      "description": "Debunks fads and fiction with solid scientific research."
+    },
+    {
+      "name": "TED Talks Daily",
+      "url": "https://feeds.feedburner.com/TEDTalks_audio",
+      "genre": "Education",
+      "description": "Daily talks on a wide variety of topics by TED speakers."
+    },
+    {
+      "name": "The Joe Rogan Experience",
+      "url": "https://joeroganexp.joerogan.libsynpro.com/rss",
+      "genre": "Talk",
+      "description": "Long-form interviews with guests from all walks of life."
+    },
+    {
+      "name": "How I Built This",
+      "url": "https://www.npr.org/rss/podcast.php?id=510313",
+      "genre": "Business",
+      "description": "Stories behind the people who created famous companies."
+    },
+    {
+      "name": "The History Extra Podcast",
+      "url": "https://www.historyextra.com/podcasts/history-extra-podcast/feed",
+      "genre": "History",
+      "description": "History lessons from experts and historians."
+    },
+    {
+      "name": "The Michelle Obama Podcast",
+      "url": "https://feeds.simplecast.com/0PhM8v0M",
+      "genre": "Society & Culture",
+      "description": "Conversations on relationships, health, and life with Michelle Obama."
+    },
+    {
+      "name": "Radiolab",
+      "url": "https://feeds.wnyc.org/radiolab",
+      "genre": "Science & Storytelling",
+      "description": "Explores scientific and philosophical questions with amazing storytelling."
+    },
+    {
+      "name": "Crime Junkie",
+      "url": "https://feeds.megaphone.fm/ADL9840290619",
+      "genre": "True Crime",
+      "description": "Weekly true crime stories told in a gripping style."
+    }
+  ]
+}
