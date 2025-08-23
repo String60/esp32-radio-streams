@@ -1,6 +1,10 @@
 [
   
-  
+    {
+    "name": "Dire Straits",
+    "url": "https://streaming.exclusive.radio/er/direstraitshits/icecast.audio"
+  },
+
   {
     "name": "INXS",
     "url": "https://streaming.exclusive.radio/er/INXS/icecast.audio"
