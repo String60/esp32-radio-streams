@@ -23,6 +23,13 @@
     "name": "Yorkshire Radio",
     "url": "https://icecast.thisisdax.com/CapitalYorkshireSouthWestMP3"
   },
+
+  {
+    "name": "Magic Radio",
+    "url": "http://edge-bauerall-04-thn.sharp-stream.com/magic1054.aac"
+  },
+
+
   {
     "name": "Smooth Radio",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC.aac"
