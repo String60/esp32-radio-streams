@@ -1,6 +1,17 @@
 [
 
       {
+    "name": "AC DC",
+    "url": "https://streaming.exclusive.radio/er/acdc/icecast.audio"
+  },
+
+
+      {
+    "name": "Bryan Ferry",
+    "url": "https://streaming.exclusive.radio/er/bryanferry/icecast.audio"
+  },
+
+      {
     "name": "Bee Gees",
     "url": "http://streaming.exclusive.radio/er/thebeegeeshits/icecast.audio"
   },
