@@ -1,5 +1,14 @@
 [
-  
+
+      {
+    "name": "Bee Gees",
+    "url": "http://streaming.exclusive.radio/er/thebeegeeshits/icecast.audio"
+  },
+    {
+    "name": "Kiss",
+    "url": "https://streaming.exclusive.radio/er/kiss/icecast.audio"
+  },
+
     {
     "name": "Dire Straits",
     "url": "https://streaming.exclusive.radio/er/direstraitshits/icecast.audio"
