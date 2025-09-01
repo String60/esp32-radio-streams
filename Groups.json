@@ -37,5 +37,48 @@
   {
     "name": "Depeche Mode",
     "url": "https://streams.80s80s.de/dm/aac-64"
+  },
+
+
+  {
+    "name": "Pink Flyod",
+    "url": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio"
+  }, 
+
+  {
+    "name": "Queen",
+    "url": "https://streaming.exclusive.radio/er/queen/icecast.audio"
+  }, 
+
+  {
+    "name": "Blondie",
+    "url": "https://streaming.exclusive.radio/er/blondie/icecast.audio"
+  }, 
+
+  {
+    "name": "Black Sabbath",
+    "url": "https://streaming.exclusive.radio/er/blacksabbath/icecast.audio"
+  }, 
+
+  {
+    "name": "Fleetwood Mac",
+    "url": "https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio"
+  }, 
+
+  {
+    "name": "Huey Lewis The News",
+    "url": "https://streaming.exclusive.radio/er/hueylewis/icecast.audio"
+  }, 
+
+ {
+    "name": "Jethro Tull",
+    "url": "https://streaming.exclusive.radio/er/jethrotull/icecast.audio"
+  }, 
+
+  {
+    "name": "Led Zeppelin",
+    "url": "https://streaming.exclusive.radio/er/ledzeppelin/icecast.audio"
   }
+
+      
 ]
