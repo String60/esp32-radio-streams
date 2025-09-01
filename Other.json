@@ -28,5 +28,46 @@
   {
     "name": "AFN Tokyo",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3"
+  },
+
+  {
+    "name": Celtic Sounds",
+    "url": "https://stream.laut.fm/celtic-sound"
+  },
+
+   {
+    "name": "BBC Radio Two",
+    "url": "https://streaming.broadcastradio.com:11135/celtic_backup"
+  }, 
+
+   {
+    "name": "Got Radio",
+    "url": "https://pureplay.cdnstream1.com/6007_64.aac"
+  }, 
+
+  {
+    "name": "Got Radio",
+    "url": "https://pureplay.cdnstream1.com/6007_64.aac"
+  }, 
+
+  {
+    "name": "Ntion Radio Scotland",
+    "url": "https://listen-nation.sharp-stream.com/nationscotland.mp3"
+  }, 
+
+  {
+    "name": "Gorgeous Radio",
+    "url": "https://listen-gorgeousfm.sharp-stream.com/45_gorgeous_fm_128_mp3"
+  }, 
+
+  {
+    "name": "Wolverhampton FC",
+    "url": "https://backbonenetworks.streamguys1.com/WFC"
+  }, 
+
+   {
+    "name": "Beacon Radio",
+    "url": "https://stream2.hippynet.co.uk/stream/beaconradio/stream"
   }
+  
 ]
