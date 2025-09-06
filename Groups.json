@@ -78,7 +78,56 @@
   {
     "name": "Led Zeppelin",
     "url": "https://streaming.exclusive.radio/er/ledzeppelin/icecast.audio"
-  }
+  },
 
+  {
+    "name": "Electric Light Orchestra",
+    "url": "https://streaming.exclusive.radio/er/elo/icecast.audio"
+  },
+
+   {
+    "name": "Neil Young",
+    "url": "https://streaming.exclusive.radio/er/neilyoung/icecast.audio"
+  }, 
+
+   {
+    "name": "Simply Red",
+    "url": "https://streaming.exclusive.radio/er/simplyredhits/icecast.audio "
+  }, 
+
+  {
+    "name": "Steely Dan",
+    "url": "https://streaming.exclusive.radio/er/steelydan/icecast.audio"
+  }, 
+
+  {
+    "name": "T-Rex",
+    "url": "https://streaming.exclusive.radio/er/trex/icecast.audio"
+  }, 
+
+  {
+    "name": "Talking Heads",
+    "url": "https://streaming.exclusive.radio/er/talkingheads/icecast.audio"
+  }, 
+
+  {
+    "name": "The-52s",
+    "url": "https://streaming.exclusive.radio/er/theb52s/icecast.audio"
+  }, 
+
+   {
+    "name": "The Cars",
+    "url": "https://streaming.exclusive.radio/er/thecars/icecast.audio"
+  }, 
+
+  {
+    "name": "The Police",
+    "url": "https://streaming.exclusive.radio/er/police/icecast.audio"
+  }, 
+
+  {
+    "name": "THe Smiths",
+    "url": "https://streaming.exclusive.radio/er/thesmiths/icecast.audio"
+  } 
       
 ]
